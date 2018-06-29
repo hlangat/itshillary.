@@ -13,8 +13,17 @@ body{
 
 
 }
+div{
+  background-color: margenta;
+}
 h1{
 color: green;
+}
+.line{
+  color: blue;
+}
+#id{
+  color: brown;
 }
 
 

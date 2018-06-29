@@ -1,6 +1,4 @@
-
-
-body{
+body {
   font-family: fantasy;
   margin: auto;
   margin-top: 100px;
@@ -10,28 +8,47 @@ body{
   background-color: margenta;
   border-style: hidden;
   padding: 25px;
-
-
-}
-h1{
-color: green;
 }
 
+div {
+  background-color: margenta;
+}
 
-h2{
+h1 {
+  color: green;
+}
+
+.line {
+  color: blue;
+}
+
+#id {
+  color: brown;
+}
+
+h2 {
   color: red;
-
 }
-img{
+
+.text-box {
+  border: 2px solid green;
+  padding: 6px;
+}
+
+img {
   height: 30%;
   width: 20%;
+  float: none;
 }
-a{
+
+a {
   text-decoration: none;
 }
-span{
+
+span {
   color: red;
 }
-.span{
+
+.span {
   color: green;
 }
